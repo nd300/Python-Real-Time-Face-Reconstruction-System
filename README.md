@@ -1,8 +1,10 @@
 # 4D Face Reconstruction System from a Single Camera
 """
-Made as a final year project for the University of Exeter.
+
+Made as a final year project for the University of Exeter. The relevant academic paper can be viewed here: https://tinyurl.com/ydewgqjj
 This is only to be used for academic purposes.
 Please refer to the licensing for more information.
+
 """
 
 Installation Instructions:
@@ -36,4 +38,3 @@ The shape predictor can be acquired for free here:
 https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
 
 This solution has used the global model from LSFM (https://ibug.doc.ic.ac.uk/resources/lsfm/) as a morphable model. If you'd like to apply for access, please do so through the site above or contact Anastasios Roussos (a.roussos@exeter.ac.uk).
-
