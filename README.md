@@ -1,10 +1,11 @@
-# Real-Time-Face-Reconstruction-System
+# 4D Face Reconstruction System from a Single Camera
 """
-4D Face Reconstruction System from a Single Camera
-"""
-README.txt
+Made as a final year project for the University of Exeter.
+This is only to be used for academic purposes.
+Please refer to the licensing for more information.
 """
 
+Installation Instructions:
 Make sure that your default Python version is 2.7
 Make sure you have the latest versions of boost, OpenCV, SciPy, NumPy, Matplotlib, IPython that support Python 2.7 installed
 
